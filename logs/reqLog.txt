@@ -1,0 +1,4 @@
+2023/08/12	17:08:27	053964d1-52b5-4d7e-8cbe-4a35d453fc0e	/new-page 	 GET
+2023/08/12	17:08:27	7a00b65b-3b05-4c70-a174-3874c4b98edf	/css/style.css 	 GET
+2023/08/12	17:08:27	068d720f-de51-4010-8ad7-6b75641d29d8	/img/img1.jpg 	 GET
+2023/08/12	17:08:27	b7b6cc72-6ed2-4c4b-87ed-24d6a00e2e3a	/favicon.ico 	 GET
