@@ -1,1 +1,1 @@
-A simple node js web server
+A node js web server
